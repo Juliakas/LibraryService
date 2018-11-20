@@ -100,8 +100,9 @@ C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\System.Web.WebPages.
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\System.Web.WebPages.Razor.xml
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\System.Web.Optimization.xml
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\Antlr3.Runtime.pdb
-C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.csprojAssemblyReference.cache
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.csproj.CoreCompileInputs.cache
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.csproj.CopyComplete
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.dll
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.pdb
+C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\Microsoft.ApplicationInsights.TraceListener.xml
