@@ -106,3 +106,4 @@ C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.pdb
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\Microsoft.ApplicationInsights.TraceListener.dll
 C:\Users\Julius\source\repos\MyLibrarian\LibraryService\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\Julius\source\repos\MyLibrarian\LibraryService\obj\Debug\LibraryService.csprojAssemblyReference.cache
