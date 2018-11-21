@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="LibraryServiceContext-Web.config Connection String" description="LibraryServiceContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=LibraryServiceContext-20181114120159; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|LibraryServiceContext-20181114120159.mdf" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Julius\\source\\repos\\MyLibrarian\\LibraryService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LibraryServiceContext']/@connectionString" />
-  </parameter>
-</parameters>
